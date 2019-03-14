@@ -5,7 +5,7 @@
 This work presents a system capable of reconstructing a three-dimensional environment and from its information it finds where the nearest object is located. The 3D information, which was acquired through a LiDAR (Light Detection and Ranging) sensor, was processed as a point cloud using the python binding to the Point Cloud Library. The algorithms used in this work include PassThrough filter, statistical outlier removal and RANSAC. Finally, a kd-tree algorithm was used to find the closest points to the system and in this way, it is possible to find the nearest object. The developed system has as main devices a Hokuyo laser sensor and a Raspberry Pi 3. It was tested in indoor environments. The results show that the system can effectively locate the nearest object.
 
 <br>
-![Paper](http://ciecfie.epn.edu.ec/wss/VirtualDirectories/80/JIEE/historial/XXVII/Contenido/MEMORIAS_XXVII-31-37.pdf)
+[Paper](http://ciecfie.epn.edu.ec/wss/VirtualDirectories/80/JIEE/historial/XXVII/Contenido/MEMORIAS_XXVII-31-37.pdf)
 <br>
 
 <p align="center">
