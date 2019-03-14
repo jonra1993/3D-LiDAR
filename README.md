@@ -10,7 +10,7 @@ You can download the paper  [here](http://ciecfie.epn.edu.ec/wss/VirtualDirector
 
 
 ## Components
-This figure represent the main components of the prototype.
+This figure represents the main components of the prototype.
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/1Parts.png">
 </p>
@@ -24,7 +24,7 @@ This prototype was develop in order to be easy for transporting.
 
 
 ## 3D Scan
-Escene and itd point cloud reconstruction.
+Escene and its point cloud reconstruction.
 <p align="center">
   <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/5OriginalScene_Total.png">
 </p>
