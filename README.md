@@ -33,7 +33,7 @@ You can download the  [Paper](http://ciecfie.epn.edu.ec/wss/VirtualDirectories/8
 
 ## Result after filtering
 <p align="center">
-  <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/10Nearest.png">
+  <img height="300" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/10Nearest.png">
 </p>
 
 
