@@ -12,15 +12,15 @@ This work presents a system capable of reconstructing a three-dimensional enviro
 </p>
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/2Prototype.png">
+  <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/2Prototype.png">
 </p>
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/5OriginalScene_Total.png">
+  <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/5OriginalScene_Total.png">
 </p>
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/10Nearest.png">
+  <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/10Nearest.png">
 </p>
 
 
