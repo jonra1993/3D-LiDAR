@@ -6,32 +6,32 @@ This work was presented in the XXVII Electrical and Electronics journey of Escue
 
 This work presents a system capable of reconstructing a three-dimensional environment and from its information it finds where the nearest object is located. The 3D information, which was acquired through a LiDAR (Light Detection and Ranging) sensor, was processed as a point cloud using the python binding to the Point Cloud Library. The algorithms used in this work include PassThrough filter, statistical outlier removal and RANSAC. Finally, a kd-tree algorithm was used to find the closest points to the system and in this way, it is possible to find the nearest object. The developed system has as main devices a Hokuyo laser sensor and a Raspberry Pi 3. It was tested in indoor environments. The results show that the system can effectively locate the nearest object.
 
-You can download the  [Paper](http://ciecfie.epn.edu.ec/wss/VirtualDirectories/80/JIEE/historial/XXVII/Contenido/MEMORIAS_XXVII-31-37.pdf) .
+You can download the paper  [here](http://ciecfie.epn.edu.ec/wss/VirtualDirectories/80/JIEE/historial/XXVII/Contenido/MEMORIAS_XXVII-31-37.pdf).
 
-<br>
 
 ## Components
+This figure represent the main components of the prototype.
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/1Parts.png">
 </p>
 
-<br>
 
 ## Prototype
+This prototype was develop in order to be easy for transporting.
 <p align="center">
   <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/2Prototype.png">
 </p>
 
-<br>
 
 ## 3D Scan
+Escene and itd point cloud reconstruction.
 <p align="center">
   <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/5OriginalScene_Total.png">
 </p>
 
-<br>
 
 ## Result after filtering
+Objects and planes where filter and the nearest point is represented with a red color.
 <p align="center">
   <img height="300" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/10Nearest.png">
 </p>
