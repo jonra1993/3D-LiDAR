@@ -42,5 +42,5 @@ Objects and planes where filter and the nearest point is represented with a red 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a>.
+- Copyright 2019 © <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a> y Diego Navas.
 
