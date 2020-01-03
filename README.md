@@ -31,7 +31,7 @@ Escene and its point cloud reconstruction.
 
 
 ## Result after filtering
-Objects and planes where filter and the nearest point is represented with a red color.
+Objects and planes were filtered and the nearest point is represented with a red color.
 <p align="center">
   <img height="300" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/10Nearest.png">
 </p>
